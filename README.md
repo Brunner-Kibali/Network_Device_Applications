@@ -1,2 +1,3 @@
-# Network_Device_Applications
-These are a series of network device applications i have built. The apps are written in Python; meant to programmatically manage network devices. Inspired and guided by @Mihai Catalin
+# Network_Device_Config_SSH
+This is an application written in Python to programmatically configure Arista network devices via SSH. 
+Inspired and guided by @Mihai Catalin
